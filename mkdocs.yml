@@ -3,6 +3,14 @@ site_url: https://choculaterie.github.io/LitematicDownloader/
 repo_url: https://github.com/Choculaterie/LitematicDownloader
 repo_name: Choculaterie/LitematicDownloader
 
+nav:
+  - LitematicDownloader:
+    - Overview: index.md
+    - About the Mod: about.md
+    - Installation Guide: installation.md
+    - Feature Overview: features.md
+    - Troubleshooting & Usage Guide: troubleshooting.md
+
 theme:
   name: material
   features:

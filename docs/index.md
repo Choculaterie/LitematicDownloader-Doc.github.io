@@ -20,7 +20,7 @@ If you're new to LitematicDownloader, we recommend this path:
 
 ## Quick Links
 
-- 📂 [GitHub Repository](https://github.com/Choculaterie/LitematicDownloader)
-- 💬 [Discord Community](https://discord.gg/pD5hFXjwc2)
-- 🌐 [Visit choculaterie.com](https://choculaterie.com)
-- 📊 [Service Status](https://status.choculaterie.com)
+- [GitHub Repository](https://github.com/Choculaterie/LitematicDownloader)
+- [Discord Community](https://discord.gg/pD5hFXjwc2)
+- [Visit choculaterie.com](https://choculaterie.com)
+- [Service Status](https://status.choculaterie.com)

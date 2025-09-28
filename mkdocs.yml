@@ -1,5 +1,5 @@
 site_name: LitematicDownloader Documentation
-site_url: https://choculaterie.github.io/LitematicDownloader-Doc/
+site_url: https://mod.choculaterie.com/
 repo_url: https://github.com/Choculaterie/LitematicDownloader
 repo_name: Choculaterie/LitematicDownloader
 
@@ -22,8 +22,6 @@ theme:
     - navigation.top
     - search.highlight
     - search.share
-    - content.action.edit
-    - content.action.view
   palette:
     - scheme: default
       primary: indigo

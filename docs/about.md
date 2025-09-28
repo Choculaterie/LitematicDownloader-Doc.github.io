@@ -7,8 +7,8 @@ Litematic Downloader is an extension for Litematica that allows you to browse, p
 Manage all your schematics easily in-game with a full file manager and instant preview functionality. No more manual downloads or external file juggling — everything is streamlined inside your Minecraft client.
 
 ### Links
-- 📂 [GitHub Repository](https://github.com/Choculaterie/LitematicDownloader)
-- 💬 [Join our Discord Community](https://discord.gg/pD5hFXjwc2)
+- [GitHub Repository](https://github.com/Choculaterie/LitematicDownloader)
+- [Join our Discord Community](https://discord.gg/pD5hFXjwc2)
 
 ## Why Use LitematicDownloader?
 
